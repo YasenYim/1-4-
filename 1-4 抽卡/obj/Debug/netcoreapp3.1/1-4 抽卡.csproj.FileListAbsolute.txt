@@ -1,0 +1,13 @@
+E:\Unity\NikoLua\Hello\1-4 抽卡\bin\Debug\netcoreapp3.1\1-4 抽卡.exe
+E:\Unity\NikoLua\Hello\1-4 抽卡\bin\Debug\netcoreapp3.1\1-4 抽卡.deps.json
+E:\Unity\NikoLua\Hello\1-4 抽卡\bin\Debug\netcoreapp3.1\1-4 抽卡.runtimeconfig.json
+E:\Unity\NikoLua\Hello\1-4 抽卡\bin\Debug\netcoreapp3.1\1-4 抽卡.runtimeconfig.dev.json
+E:\Unity\NikoLua\Hello\1-4 抽卡\bin\Debug\netcoreapp3.1\1-4 抽卡.dll
+E:\Unity\NikoLua\Hello\1-4 抽卡\bin\Debug\netcoreapp3.1\1-4 抽卡.pdb
+E:\Unity\NikoLua\Hello\1-4 抽卡\obj\Debug\netcoreapp3.1\1-4 抽卡.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unity\NikoLua\Hello\1-4 抽卡\obj\Debug\netcoreapp3.1\1-4 抽卡.AssemblyInfoInputs.cache
+E:\Unity\NikoLua\Hello\1-4 抽卡\obj\Debug\netcoreapp3.1\1-4 抽卡.AssemblyInfo.cs
+E:\Unity\NikoLua\Hello\1-4 抽卡\obj\Debug\netcoreapp3.1\1-4 抽卡.csproj.CoreCompileInputs.cache
+E:\Unity\NikoLua\Hello\1-4 抽卡\obj\Debug\netcoreapp3.1\1-4 抽卡.dll
+E:\Unity\NikoLua\Hello\1-4 抽卡\obj\Debug\netcoreapp3.1\1-4 抽卡.pdb
+E:\Unity\NikoLua\Hello\1-4 抽卡\obj\Debug\netcoreapp3.1\1-4 抽卡.genruntimeconfig.cache
